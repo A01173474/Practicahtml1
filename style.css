@@ -4,7 +4,7 @@ h1 {font-size:50px; color:goldenrod;text-align: center;border-bottom-width: 1px;
 #principal{background-color: black;}
 p{color: white;font-size: 20px;font-style:italic}
 main{color: white;}
-img{display: block;margin-left: auto;margin-right: auto;}
+img{display: block;margin-left: auto;margin-right: auto;border-style: double;border-color: coral;border-width: 3px;flex-wrap: wrap;}
 h3{text-decoration: underline;}
 
 #formacion{float: left; height: 250px;width:550px;
