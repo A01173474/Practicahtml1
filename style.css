@@ -1,0 +1,25 @@
+h1 {font-size:50px; color:goldenrod;text-align: center;border-bottom-width: 1px;}
+.contacto{text-align: center;border-bottom-width: 1px;}
+.info{text-align: center;border-bottom-width: 1px;border-color: white;}
+#principal{background-color: black;}
+p{color: white;font-size: 20px;font-style:italic}
+main{color: white;}
+img{display: block;margin-left: auto;margin-right: auto;}
+h3{text-decoration: underline;}
+
+#formacion{float: left; height: 250px;width:550px;
+    border-width: 5px;border-color: lightsalmon;border-style:solid;}
+
+#habilidades{float: right; height: 250px;width:550px;
+        border-width: 5px;border-color: lightblue;border-style: solid;
+    
+    }
+#areas{float: right; height:250px;width:550px;
+        border-width: 5px;border-color: lightgreen; border-style: solid;
+    }
+#experiencia{float: left; height: 250px;width:550px;
+            border-width: 5px;border-color: lightcyan;border-style: solid; }
+footer{text-align: center;font-style: italic;font-size: medium;
+                border-style: dotted;border-width: 5px;border-color: blue;                
+           float: inline-end; }
+#quien{text-align: center;font-style: oblique;font-size: 40px;}
