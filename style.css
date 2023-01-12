@@ -22,5 +22,5 @@ h3{text-decoration: underline;}
             border-width: 5px;border-color: lightcyan;border-style: solid; }
 footer{text-align: center;font-style: italic;font-size: medium;
                 border-style: dotted;border-width: 5px;border-color: blue;                
-           float: inline-end; }
+           float: inherit; height: fit-content;width: fit-content; }
 #quien{text-align: center;font-style: oblique;font-size: 40px;}
